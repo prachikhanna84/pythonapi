@@ -1,0 +1,5 @@
+1) Temperature is high on equator and drops on north and south pole
+2) Looking at the data Humidity in inversely proportional to Temperature.
+As temperature rise, humidity drops and vice versa.
+3) Cloudiness and Humidity is proportional. As cloudiness increase which increase
+the saturation level and hence the humidity
